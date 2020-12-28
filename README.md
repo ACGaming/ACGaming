@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-##### Minecraft Addict — YouTuber/Streamer — Recreational Translator
+##### German YouTuber/Streamer — Minecraft Addict — Recreational Translator
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ACGaming&show_icons=true&theme=default" />
