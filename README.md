@@ -12,7 +12,7 @@
 
 <img src="https://simpleicons.org/icons/twitch.svg" width="15" height="15"> [**Twitch**](https://www.twitch.tv/acgaming56)
 
-<img src="https://simpleicons.org/icons/discord.svg" width="15" height="15"> [**Discord**](https://discord.gg/qVmBXAM)
+<img src="https://simpleicons.org/icons/discord.svg" width="15" height="15"> [**Discord**](https://discord.gg/JdthM8qbJ3)
 
 <img src="https://simpleicons.org/icons/steam.svg" width="15" height="15"> [**Steam**](https://steamcommunity.com/id/ACGaming56)
 
