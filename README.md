@@ -1,19 +1,23 @@
-# Welcome to my profile!
+# Welcome to my profile! 👋🏻
 
-##### German YouTuber/Streamer — Minecraft Addict — Recreational Translator
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ACGaming&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACGaming&theme=dark&layout=compact" />
-</div>
+##### Minecraft Modding Addict — Recreational Translator — Former YouTuber/Streamer
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ACGaming&show_icons=true&theme=transparent)](https://github-readme-stats.vercel.app)
+
+[![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACGaming&layout=donut&theme=transparent)](https://github-readme-stats.vercel.app)
+
 <hr />
 
-### Social Media
-<img src="https://simpleicons.org/icons/youtube.svg" width="15" height="15"> [**YouTube**](https://www.youtube.com/@ACGaming56)
+### My Links
 
-<img src="https://simpleicons.org/icons/twitch.svg" width="15" height="15"> [**Twitch**](https://www.twitch.tv/acgaming56)
+<img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="16" height="16"> [**Ko-Fi**](https://acgam.ing/donate)
 
-<img src="https://simpleicons.org/icons/discord.svg" width="15" height="15"> [**Discord**](https://discord.gg/JdthM8qbJ3)
+<img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="16" height="16"> [**Discord**](https://acgam.ing/discord)
 
-<img src="https://simpleicons.org/icons/steam.svg" width="15" height="15"> [**Steam**](https://steamcommunity.com/id/ACGaming56)
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="16" height="16"> [**YouTube**](https://www.youtube.com/@ACGaming56)
 
-<img src="https://simpleicons.org/icons/x.svg" width="15" height="15"> [**𝕏**](https://twitter.com/AlertClock)
+<img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" width="16" height="16"> [**Twitch**](https://www.twitch.tv/acgaming56)
+
+<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="16" height="16"> [**Steam**](https://steamcommunity.com/id/ACGaming56)
+
+<img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" width="16" height="16"> [**𝕏**](https://twitter.com/AlertClock)
